@@ -1,0 +1,18 @@
+# Configuración local de Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
